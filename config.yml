@@ -10,7 +10,7 @@ Attack: 3
 Speed: 0.2300000041723251
 Armor: 3
 Notice: true
-Message: '��aZombi will coming'
+Message: '§a僵尸来了'
 Blocks: 
   - 1
   - 4
