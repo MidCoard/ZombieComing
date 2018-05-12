@@ -1,0 +1,19 @@
+Worlds: 
+  - 'world'
+  - 'world_nether'
+RandomMax: 13
+RandomMin: 6
+Time: 30
+Amount: 15
+Health: 40
+Attack: 3
+Speed: 0.2300000041723251
+Armor: 3
+Notice: true
+Message: '¡ìaZombi will coming'
+Blocks: 
+  - 1
+  - 4
+Items: 
+  - 1
+  - 4
